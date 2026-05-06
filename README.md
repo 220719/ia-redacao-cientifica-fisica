@@ -40,25 +40,23 @@ Curso voltado para estudantes de Física, Engenharia e áreas correlatas, com fo
 
 Regressão linear simples:
 
-\[
-F = kx
-\]
+`F = kx`
+
+---
 
 ## Nível 2 — Queda Livre
 
 Linearização experimental:
 
-\[
-y = \frac{1}{2}gt^2
-\]
+`y = (1/2)gt²`
+
+---
 
 ## Nível 3 — Decaimento Radioativo
 
 Ajuste exponencial não linear:
 
-\[
-N(t)=N_0 e^{-\lambda t}
-\]
+`N(t) = N₀ exp(-λt)`
 
 ---
 
@@ -106,3 +104,4 @@ PhD em Física | Ciência de Dados e Machine Learning | Difração de raios X e 
 # Licença
 
 Projeto disponibilizado para fins educacionais e científicos.
+
