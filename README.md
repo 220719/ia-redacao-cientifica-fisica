@@ -97,7 +97,7 @@ imagens/     → Figuras e gráficos
 
 Anuar J Mincache
 
-PhD em Física | Ciência de Dados e Machine Learning | Difração de raios X e nêutrons
+PhD em Física | Ciência de Dados e Machine Learning | Difração de raios X e Nêutrons
 
 ---
 
